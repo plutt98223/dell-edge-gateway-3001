@@ -8,11 +8,11 @@ RAM - 2 GB
 
 Storage - 28.5 GiB MMC card
 
-RS9113 Silicon Labs Wi-Fi/Bluetooth Chipset
+Wireless - RS9113 Silicon Labs Wi-Fi/Bluetooth Chipset
 
-Realtek RTL8169 gigabit ethernet Chipset
+Ethernet - Realtek RTL8169 gigabit ethernet Chipset
 
-Telit LN930 Cellular Data Card (appears to be for Verizon)
+Cellular - Telit LN930 Data Card (appears to be for Verizon)
 
 ## Operating System
 
