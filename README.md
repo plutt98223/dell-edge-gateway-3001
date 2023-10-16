@@ -2,7 +2,7 @@
 
 ## Hardware
 
-CPU - dual core Intel Atom E3805 @ 1.33GHz
+CPU - Dual Core Intel Atom E3805 @ 1.33GHz
 
 RAM - 2 GB
 
@@ -10,9 +10,17 @@ Storage - 28.5 GiB MMC card
 
 Wireless - RS9113 Silicon Labs Wi-Fi/Bluetooth Chipset
 
-Ethernet - Realtek RTL8169 gigabit ethernet Chipset
+Ethernet - Realtek RTL8169 Gigabit Ethernet Chipset
 
 Cellular - Telit LN930 Data Card (appears to be for Verizon)
+
+## Dell Documentation
+
+[Installation and Operation Manual](https://dl.dell.com/topicspdf/dell-edge-gateway-3000-series-oem-ready_users-guide_en-us.pdf)
+
+[Specification Guide](https://dl.dell.com/topicspdf/dell-edge-gateway-3000-series-oem-ready_specifications_en-us.pdf)
+
+[Service Manual](https://dl.dell.com/topicspdf/dell-edge-gateway-3000-series_service-manual_en-us.pdf)
 
 ## Operating System
 
@@ -38,7 +46,7 @@ wifi-ap           30               355    latest/stable  canonical✓  -
 wpa-supplicant    2.4.4            53     latest/stable  canonical✓  -
 ```
 
-## Ubuntu documentation
+## Ubuntu Documentation
 
 [Ubuntu Core](https://ubuntu.com/core/docs)
 
@@ -62,4 +70,3 @@ The default login for the Dell provided Core 16 image is:
 ### Wi-Fi/Bluetooth Antenna
 
 Wi-Fi and Bluetooth appear to share the same antenna
-
