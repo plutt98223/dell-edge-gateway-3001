@@ -64,9 +64,19 @@ First DHCP request appears to start at the 3 minute mark
 ### Login
 
 The default login for the Dell provided Core 16 image is:
+
 - login: admin
 - pw: admin
 
 ### Wi-Fi/Bluetooth Antenna
 
 Wi-Fi and Bluetooth appear to share the same antenna
+
+### User Accounts
+
+User account passwd, group, and shadow files are stored in `/var/lib/extrausers`.
+
+Users are added with `adduser --extrausers USER`.
+
+Home directories are stored in `/writable/user-data`.
+
